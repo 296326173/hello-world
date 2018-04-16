@@ -1,4 +1,4 @@
 # hello-world
 My-One-Project
 Hi!
-I'm vector!
+I'm vector!\n
